@@ -47,6 +47,7 @@ button {
 .about {
     background-image: url(images/about-banner.png);
     background-repeat: no-repeat;
+    background-size:cover;
 }
 
 .about-wrapper {
